@@ -1,3 +1,1 @@
-Hello World
-
-Welcome to decKode!
+# deckoded.github.io
