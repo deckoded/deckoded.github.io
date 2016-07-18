@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="338px" height="290px" viewBox="0 0 338 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>decKode dck</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="decKode-dck" sketch:type="MSArtboardGroup" fill="#83D6E2">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(19.000000, -1.000000)">
+                <g id="deckode-Logo" sketch:type="MSShapeGroup">
+                    <g id="Group">
+                        <path d="M89,268 C121.86887,268.000011 149.182485,251.656995 172,229 C175.810828,225 292.755415,111.940532 286,111 C281.71318,110.470074 242,111 242,111 C242,111 161.945748,190.848232 150,203 C148.173567,204.67137 125.86457,223 121,226 C115.875318,229 110.880693,234 89,234 C55.9398088,234 33.9634554,209.999998 34,186 C33.9634554,167 43.9527069,134.056705 89,134 C116.874179,133.964717 140,156 140,156 L140,117 C140,117 116.874243,100 89,100 C37.959156,100 5.36839948e-15,135 0,186 C5.36839961e-15,238 43.9527069,267.999985 89,268 Z" id="Oval-1"></path>
+                        <path d="M152,187 L152,33 L186,1 L186,154 L152,187 Z" id="Rectangle-1"></path>
+                        <path d="M194,221 L218,197 L289,268 L241,268 L194,221 L194,221 Z" id="Rectangle-1-Copy-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

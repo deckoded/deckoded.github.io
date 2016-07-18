@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="83px" height="80px" viewBox="0 0 83 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>timing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="timing" sketch:type="MSArtboardGroup" stroke="#83D6E2">
+            <g id="time" sketch:type="MSLayerGroup" transform="translate(11.000000, 7.000000)">
+                <ellipse id="Oval" sketch:type="MSShapeGroup" cx="30.5324468" cy="36.7082692" rx="30.266383" ry="30.0469231"></ellipse>
+                <path d="M30.5324468,8.72288462 L30.5324468,12.6526923" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M16.4375532,12.4723077 L18.4168085,15.8802885" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M6.11946809,22.7155769 L9.55234043,24.6804808" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2.34265957,36.7082692 L6.30117021,36.7082692" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M6.11946809,50.7009615 L9.55234043,48.7360577" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M16.4375532,60.9442308 L18.4168085,57.5426923" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M30.5324468,64.6936538 L30.5324468,60.7638462" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M44.6273404,60.9442308 L42.6480851,57.5426923" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M54.9454255,50.7009615 L51.5190426,48.7360577" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M58.722234,36.7082692 L54.7637234,36.7082692" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M54.9454255,22.7155769 L51.5190426,24.6804808" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M44.6273404,12.4723077 L42.6480851,15.8802885" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M41.4999999,19.5 L28.5,41.5000004" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M30.4999998,22.5 L30.4999998,39.5000003" id="Shape-Copy" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <ellipse id="Oval" fill="#83D6E2" sketch:type="MSShapeGroup" cx="30.3896809" cy="36.85" rx="2.8293617" ry="2.80884615"></ellipse>
+                <path d="M23.5369149,0.0644230769 L37.5344681,0.0644230769 L37.5344681,3.8525 L23.5369149,3.8525 L23.5369149,0.0644230769 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+                <path d="M50.8571277,5.87538462 L57.7760851,11.6399615 L55.3231064,14.5422212 L48.4041489,8.77764423 L50.8571277,5.87538462 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
